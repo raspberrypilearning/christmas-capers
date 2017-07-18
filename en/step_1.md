@@ -1,19 +1,32 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+In this project we’ll create a game with scrolling backgrounds, scoring and a festive game over screen.
 
-### What you will make
+A disaster in a toy factory has sent presents flying into the sky, help Rudolph to save Christmas by catching the presents!
 
-Add something here to showcase here, for example:
+![screenchot](images/xmas-final.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+### Additional information for club leaders
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+If you need to print this project, please use the [Printer friendly version](./print).
 
-### What you will learn
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+
+--- collapse ---
+---
+title: Project materials
+---
+## Project resources
+* [GameOver.png](resources/GameOver.png)
+* [Present.png](resources/Present.png)
+* [Rudolph.png](resources/Rudolph.png)
+* [SkyBackground.png](resources/SkyBackground.png)
+* [SnowHills.png](resources/SnowHills.png)
+* [Jingle_Bells.mp3](resources/Jingle_Bells.mp3)
+
+## Club leader resources
+* [Downloadable completed Scratch 2 project](resources/ChristmasCapers.sb2)
+* [Downloadable completed Scratch 2 project (including challenges)](resources/ChristmasCapers-Challenge.sb2)
+
+--- /collapse ---
