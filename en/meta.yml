@@ -5,18 +5,21 @@ duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
 title: Christmas Capers
 description: 
 original_url: https://codeclubprojects.org/en-GB/scratch/christmas-capers
-interests: ''
+interests: games
 technologies: scratch
-site_areas: codeclub, scratch
-steps:
+site_areas: projects
+hardware: ''
+software: scratch
+version: 3
+last_tested: 2017-01-01
+steps: 
 - title: Introduction
 - title: Make Rudolph fly
 - title: Falling Presents
 - title: Scoring and Sound Effects
 - title: Game over
 - title: 'Challenge: Make the game harder'
-
